@@ -1,6 +1,6 @@
 # config.py
 
-GEMINI_API_KEY = "AIzaSyCc_8Bqf6Inkd2zyrTx20V1mJbBthexAjQ"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 MODEL_NAME = "models/gemini-2.0-flash"
 
 LEAVE_TYPES = ["Sick Leave", "Annual Leave", "Maternity Leave", "Paternity Leave"]
