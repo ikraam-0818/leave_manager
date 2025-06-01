@@ -1,0 +1,33 @@
+{
+    "ikraam": {
+        "leave_balance": {
+            "Sick Leave": 1,
+            "Annual Leave": 0,
+            "Maternity Leave": 0,
+            "Paternity Leave": 0
+        },
+        "leave_history": [
+            {
+                "leave_type": "Sick Leave",
+                "start_date": "2025-05-29",
+                "number_of_days": 3,
+                "status": "Pending"
+            },
+            {
+                "leave_type": "Sick Leave",
+                "start_date": "2025-05-29",
+                "number_of_days": 1,
+                "status": "Pending"
+            }
+        ]
+    },
+    "imtiaz": {
+        "leave_balance": {
+            "Sick Leave": 5,
+            "Annual Leave": 5,
+            "Maternity Leave": 5,
+            "Paternity Leave": 5
+        },
+        "leave_history": []
+    }
+}

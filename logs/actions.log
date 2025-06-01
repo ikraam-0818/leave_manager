@@ -1,0 +1,23 @@
+[2025-05-29 09:46:36] Admin: Listed Employees | 
+[2025-05-29 09:47:00] Admin: Added Employee | Ikraam
+[2025-05-29 09:51:15] Admin: Listed Employees | 
+[2025-05-29 09:51:27] Admin: Added Employee | ikraam
+[2025-05-29 09:51:40] Admin: Exited Admin Mode | 
+[2025-05-29 09:52:25] ikraam: Unhandled Error | 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-05-29 09:56:00] ikraam: Unhandled Error | 'Model' object has no attribute 'start_chat'
+[2025-05-29 10:19:30] ikraam: AI Parse Error | i want 3 sick leaves
+[2025-05-29 10:23:26] ikraam: Invalid Leave Type | sick_leave
+[2025-05-29 10:34:46] ikraam: AI Parse Error | i want 3 sick leaves
+[2025-05-29 10:35:03] ikraam: Invalid Start Date | tomorrow
+[2025-05-29 10:35:31] ikraam: AI Parse Error | i want 3 sick leaves from today
+[2025-05-29 10:39:03] ikraam: Invalid Leave Type | sick leave
+[2025-05-29 10:39:23] ikraam: Invalid Leave Type | sick
+[2025-05-29 10:41:40] ikraam: Insufficient Balance | Sick Leave: 0, Requested: 3
+[2025-05-29 10:42:27] ikraam: Insufficient Balance | Sick Leave: 0, Requested: 3
+[2025-05-29 10:42:56] ikraam: Requested Leave | Sick Leave, 3 days from 2025-05-29
+[2025-05-29 18:57:26] ikraam: Invalid Start Date | None
+[2025-05-29 18:57:41] ikraam: Requested Leave | Sick Leave, 1 days from 2025-05-29
+[2025-05-29 18:59:23] User: Checked Leave Balance | Sick Leave: 1
+[2025-05-29 19:00:12] User: Viewed Leave History | 
+[2025-06-01 11:16:36] ikraam: Invalid Start Date | None
+[2025-06-01 11:51:28] ikraam: Insufficient Balance | Sick Leave: 1, Requested: 2
